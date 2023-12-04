@@ -43,6 +43,11 @@ A microservice application that uses python , redis , .net , node,js , postgresq
 - Enforces a one-vote-per-client policy.
 - Rejects votes from clients that have already submitted a vote.
 
+<img width="939" alt="image" src="https://github.com/Diwakar-hub123/votingappkubernetes/assets/83933859/c0bc0149-71b0-4039-90e9-b61f73d537af">
+
+<img width="767" alt="image" src="https://github.com/Diwakar-hub123/votingappkubernetes/assets/83933859/513853f2-bb3e-4520-a177-12aa7da2cec1">
+
+
 
 Reference:
 https://github.com/kodekloudhub/example-voting-app/tree/master
