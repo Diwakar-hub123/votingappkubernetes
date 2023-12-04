@@ -43,3 +43,7 @@ A microservice application that uses python , redis , .net , node,js , postgresq
 - Enforces a one-vote-per-client policy.
 - Rejects votes from clients that have already submitted a vote.
 
+
+Reference:
+https://github.com/kodekloudhub/example-voting-app/tree/master
+
